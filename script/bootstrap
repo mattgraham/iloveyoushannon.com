@@ -1,0 +1,12 @@
+#!/bin/sh
+#/ Usage: bootstrap [bundle options]
+#/
+#/ Install the dependencies.
+#/
+#/ Examples:
+#/
+#/   bootstrap
+#/
+
+gem install foreman
+gem install compass
